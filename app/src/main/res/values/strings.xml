@@ -5,4 +5,6 @@
     <string name="box3">Box Three</string>
     <string name="box4">Box Four</string>
     <string name="box5">Box Five</string>
+    <string name="playGuide">How to play:</string>
+    <string name="infoText">Tap the screen and button</string>
 </resources>
